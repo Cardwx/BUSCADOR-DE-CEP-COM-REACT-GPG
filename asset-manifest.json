@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gitHubPagesBuscaCep/static/css/main.0488d39c.css",
+    "main.js": "/gitHubPagesBuscaCep/static/js/main.470c8b37.js",
+    "index.html": "/gitHubPagesBuscaCep/index.html",
+    "main.0488d39c.css.map": "/gitHubPagesBuscaCep/static/css/main.0488d39c.css.map",
+    "main.470c8b37.js.map": "/gitHubPagesBuscaCep/static/js/main.470c8b37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0488d39c.css",
+    "static/js/main.470c8b37.js"
+  ]
+}
