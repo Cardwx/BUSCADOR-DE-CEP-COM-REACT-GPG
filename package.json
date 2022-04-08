@@ -6,7 +6,7 @@
   
   "private": true,
   
-  "homepage": "https://cardwx.github.io/gitHubPagesBuscaCep",
+  "homepage": "https://Cardwx.github.io/gitHubPagesBuscaCep",
   
   "dependencies": {
   
@@ -58,9 +58,6 @@
   
     
   "eject": "react-scripts eject"
-  
-    
-  
   
   },
   
